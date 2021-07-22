@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizabeth0311%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizabeth0311%2Fhit-counter&count_bg=%23E0CFE9&title_bg=%238B46CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 ![HyeRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth0311&show_icons=true&theme=buefy)
