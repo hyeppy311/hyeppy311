@@ -1,7 +1,7 @@
 ### Welcome my github 👋
 
 <!--
-**Elizabeth0311/Elizabeth0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyeppy311/hyeppy311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizabeth0311%2Fhit-counter&count_bg=%23E0CFE9&title_bg=%238B46CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeppy311%2Fhit-counter&count_bg=%23E0CFE9&title_bg=%238B46CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-![HyeRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth0311&show_icons=true&theme=buefy)
+![HyeRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeppy311&show_icons=true&theme=buefy)
